@@ -19,7 +19,7 @@ Running the Project:
 Team Contributions
 
 - Debora Dereje – Designed and implemented the Master’s Registration Form and related UI components.
-- Hildana Birhanu – Developed the *xtension Program Registration Form and worked on its layout and functionality.
+- Hildana Birhanu – Developed the Extension Program Registration Form and worked on its layout and functionality.
 - Hoise Dereje – Created the Bachelor’s Registration Form, managing both design and data handling.
 - Yeabsira Addis – Built the Signup/Login system, including validation and authentication logic.
 
